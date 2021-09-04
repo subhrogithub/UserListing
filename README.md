@@ -13,3 +13,6 @@
 - Edit User option from drop down will open a modal where we can edit the name and email of the corresponding user,save the name displayed and close the modal 
 
 - Add User Button
+- Screenshot of the pages
+- 
+[ScreenShot.docx](https://github.com/subhrogithub/UserListing/files/7110421/ScreenShot.docx)
