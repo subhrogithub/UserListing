@@ -21,3 +21,4 @@
 ![User](https://user-images.githubusercontent.com/87541867/132106583-dc6a08f1-9daa-40e6-9ff7-eb49ffe16bce.jpg)
 ![Dropdown](https://user-images.githubusercontent.com/87541867/132106586-f6813751-d6e2-46d7-ba22-8f9de9cdc82f.jpg)
 ![EditUser](https://user-images.githubusercontent.com/87541867/132106589-21e18e4c-0ab4-4803-9a94-4357d4227960.jpg)
+![Pagination](https://user-images.githubusercontent.com/87541867/132106836-fb43e999-c77f-4cf6-9122-75fd2973b50d.jpg)
